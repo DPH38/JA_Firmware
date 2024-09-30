@@ -1,0 +1,7 @@
+.pio
+.vscode/
+include/
+lib/
+src/config.txt
+test/
+Factory_Reset_And_Bootloader_Repair.bin
